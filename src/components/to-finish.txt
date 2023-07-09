@@ -1,0 +1,5 @@
+add footer to all pages
+add content to about page
+add form to contact pagelink to shop website on shop link (menu + footer)
+portfolio page - add all categories  like in hero section + more categories
+create component for each category and add category inside it for each client
